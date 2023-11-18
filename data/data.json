@@ -1,0 +1,1257 @@
+{
+    "questions": [
+        {
+            "question": "What is the Constant Value of Gravity",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Define the term 'work' in physics and provide the formula used to calculate it.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "What is the law of conservation of energy, and how does it apply to various energy transformations?",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "State the relationship between voltage, current, and resistance in an electrical circuit using Ohm's Law.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "What is the formula to calculate the speed of an object?",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "What is the difference between velocity and speed in physics?",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Describe the relationship between frequency and pitch in sound waves.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Define the term 'acceleration' in physics and state its units of measurement in the International System of Units (SI).",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "What is the difference between mass and weight in physics? Explain using the concepts of gravitational force and acceleration due to gravity.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "What is the difference between scalar and vector quantities in physics? Provide examples of each.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Explain Newton's First Law of Motion and provide a real-life example to illustrate it.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Define the term 'refraction' in physics and explain how it occurs when light passes from one medium to another.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "What is the relationship between frequency, wavelength, and speed in a wave? Explain using the wave equation.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Explain the difference between static and kinetic friction, providing examples of each.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Describe the concept of inertia and how it relates to an object's mass and its resistance to changes in motion.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Define the term 'momentum' in physics and explain the principle of conservation of momentum.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Discuss the difference between series and parallel circuits, including their characteristics and applications.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Explain the Doppler effect and provide examples of how it applies to both sound and light waves.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Explain the concept of centripetal force and provide examples of its application in everyday life.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Discuss the properties and behavior of electromagnetic waves in the electromagnetic spectrum.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Explain the principles behind the operation of a simple DC motor and its applications.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Describe the structure of an atom, including the roles of protons, neutrons, and electrons, and how they contribute to an atom's properties.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Explain the principles behind the functioning of a simple pendulum, including the factors that affect its period.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Describe the concepts behind quantum entanglement and its implications in the field of quantum mechanics.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Explain the theory of general relativity proposed by Albert Einstein and its impact on our understanding of gravity.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "What are the fundamental differences between classical mechanics and quantum mechanics, and how do they describe the behavior of particles differently?",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Discuss the concept of black holes, their formation, properties, and the significance of their event horizon in astrophysics.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Describe the principles of nuclear fusion and nuclear fission, including their differences and their applications in energy production.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Explain the concept of wave-particle duality in quantum mechanics and its implications on the behavior of particles.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Discuss the principles of thermodynamics, including the laws governing heat transfer and energy conservation.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "What are the main components and functions of a particle accelerator, and how do they contribute to particle physics research?",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Explain the Higgs boson and its role in the Standard Model of particle physics, including its discovery at the Large Hadron Collider.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Describe the Uncertainty Principle proposed by Werner Heisenberg and its significance in quantum mechanics.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Discuss the principles and applications of Einstein's theory of special relativity, focusing on concepts like time dilation and length contraction.",
+            "subject": "science",
+            "topic": "physics",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "What is the atomic number of carbon?",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Define the term 'chemical reaction' and provide an example.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "What is the pH scale used for, and what values indicate an acidic, neutral, and basic solution?",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Name one alkali metal found in the periodic table.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "What is the chemical symbol for gold?",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Define an element and provide three examples.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "What are the three states of matter? Provide an example of each.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "What is the difference between a compound and a mixture in chemistry?",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Define a molecule and give an example.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Explain the Law of Conservation of Mass in relation to chemical reactions.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "What is the difference between an exothermic and an endothermic reaction? Provide examples.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Discuss the difference between a physical change and a chemical change, providing examples of each.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Explain the concept of stoichiometry in chemistry and its importance in determining reaction quantities.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Describe the structure of an atom, including the roles of protons, neutrons, and electrons.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "What is the difference between an element and a compound? Provide examples.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Explain the concept of electronegativity and its role in chemical bonding.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Discuss the principles of the periodic table, including the trends observed across periods and groups.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Discuss the process of oxidation and reduction in chemical reactions, known as redox reactions.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Discuss the principles of quantum mechanics and their applications in understanding atomic structure and behavior.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "Difficult",
+            "marks": 20
+        },
+        {
+            "question": "Explain the different types of chemical bonds (ionic, covalent, metallic) and provide examples of each.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "Difficult",
+            "marks": 20
+        },
+        {
+            "question": "Discuss the various types of isomerism in organic chemistry, providing examples.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "Difficult",
+            "marks": 20
+        },
+        {
+            "question": "Explain the concept of entropy in thermodynamics and its relationship to the spontaneity of reactions.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "Difficult",
+            "marks": 20
+        },
+        {
+            "question": "Discuss the properties, uses, and environmental impact of nanoparticles in chemistry.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "Difficult",
+            "marks": 20
+        },
+        {
+            "question": "Describe the principles behind chromatography and its applications in separating mixtures.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "Difficult",
+            "marks": 20
+        },
+        {
+            "question": "Explain the concept of equilibrium in chemical reactions and how it is affected by changes in concentration, pressure, and temperature.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "Difficult",
+            "marks": 20
+        },
+        {
+            "question": "Discuss the principles and applications of nuclear chemistry, including radioactive decay and its uses.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "Difficult",
+            "marks": 20
+        },
+        {
+            "question": "Explain the differences between an acid and a base using the Arrhenius, Bronsted-Lowry, and Lewis definitions.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "Difficult",
+            "marks": 20
+        },
+        {
+            "question": "Describe the different types of polymerization reactions and their significance in polymer chemistry.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "Difficult",
+            "marks": 20
+        },
+        {
+            "question": "Discuss the principles of coordination chemistry, including ligands, coordination numbers, and metal complexes.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "Difficult",
+            "marks": 20
+        },
+        {
+            "question": "Explain the concept of chirality in organic molecules and its importance in pharmaceuticals and biochemistry.",
+            "subject": "Science",
+            "topic": "Chemistry",
+            "difficulty": "Difficult",
+            "marks": 20
+        },
+        {
+            "question": "What is the function of the Golgi apparatus in a cell?",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Define the term 'homeostasis' and provide examples of its importance in the human body.",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Explain the difference between asexual and sexual reproduction in organisms.",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "What are the main differences between plant and animal cells?",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Define the term 'ecology' and discuss its significance in understanding ecosystems.",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Explain the role of antibodies in the immune system.",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Define the term 'evolution' and discuss its mechanisms according to Darwin's theory.",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "What is the function of the ribosomes in a cell?",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Describe the process of protein synthesis within cells.",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Explain the differences between the sympathetic and parasympathetic nervous systems.",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Discuss the process of cell differentiation and its significance in multicellular organisms.",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Describe the functions of the endocrine system and name three major endocrine glands.",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Explain the process of transcription and translation in gene expression.",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Discuss the role of the Krebs cycle in cellular respiration.",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Describe the structure and function of the human lymphatic system.",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Explain the principle of gene regulation in organisms.",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Discuss the process of action potentials in neurons and their transmission.",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Discuss the functions and types of stem cells in biological systems.",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Explain the differences between innate and acquired immunity.",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Discuss the significance of the human microbiome in health and disease.",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Explain the mechanisms of antibiotic resistance in bacteria.",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Discuss the process of meiotic cell division and its significance in sexual reproduction.",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Describe the structure and function of DNA repair mechanisms in cells.",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Explain the principles of population dynamics and ecological succession.",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Discuss the applications and ethical implications of genetic engineering.",
+            "subject": "Science",
+            "topic": "Biology",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "What is a constellation, and name one famous constellation visible from the northern hemisphere?",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Define a light-year and explain its significance in measuring astronomical distances.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "What is the difference between a planet and a dwarf planet in our solar system?",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Explain why we experience seasons on Earth.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Define a meteor and describe the difference between a meteoroid, meteor, and meteorite.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "What is the Hubble Space Telescope, and what contributions has it made to astronomy?",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "What is a satellite, and name one natural satellite of Earth.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Explain the difference between a solar eclipse and a lunar eclipse.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "What is the Milky Way galaxy, and where is our solar system located within it?",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Define the term 'nebula' and explain its role in the formation of stars.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Discuss the theory of the Big Bang and its implications for the origin of the universe.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Explain the concept of black holes, including their formation and properties.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Describe the differences between a comet, an asteroid, and a meteoroid.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Discuss the concept of redshift and how it supports the idea of an expanding universe.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Explain the differences between a star and a planet in terms of their characteristics.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "What is the Drake Equation, and what does it propose to estimate?",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Discuss the lifecycle of a star, from its formation to its end stages.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Explain the concept of cosmic microwave background radiation and its significance.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Describe the Oort Cloud and its role in the solar system.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Discuss the types and characteristics of galaxies found in the universe.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Explain the concept of gravitational lensing and its role in astrophysics.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Discuss the principles behind dark matter and dark energy in the universe.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Explain the concepts of planetary habitability and the search for exoplanets.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Describe the Kuiper Belt and its significance in the outer solar system.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Discuss the challenges and possibilities of interstellar travel.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Explain the concept of the Great Attractor and its effect on cosmic motion.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Discuss the concept of a pulsar and its origin.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Describe the process of nuclear fusion in stars and its role in energy production.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Explain the differences between a supernova and a hypernova.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Discuss the concept of multiverse theory and its implications for cosmology.",
+            "subject": "Science",
+            "topic": "Astronomy",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Solve for x: 2x + 5 = 15.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Factorize the expression: x^2 - 4.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Evaluate: 3(x + 4) - 2x when x = 7.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Solve the equation: 3y = 18.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Simplify: 2(3x - 5) + 4x.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Solve for y: 2y + 7 = 15.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Factorize the expression: 4x^2 - 9.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Evaluate: 5x - 2y when x = 4 and y = 3.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Solve the equation: 2(x - 8) = 6.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Simplify: 3x + 2(x - 4).",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Solve the equation: 2x^2 - 7x + 3 = 0.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Find the value of y if 3y + 6 = 2(y - 1).",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Solve the inequality: 4x + 7 > 3x - 2.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Factorize the expression: x^3 - 8.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Solve the equation: 5(x + 3) = 20.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Simplify: (2x^2 - 5x + 3) + (3x^2 + 2x - 1).",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Solve for z: 2z/3 = 8.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Evaluate: 4x^2 - 3x + 2 when x = -2.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Solve the inequality: 3(x - 2) ≥ 9.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Factorize the expression: 9x^2 - 16.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Solve the quadratic equation: x^2 + 5x - 6 = 0.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Find the value of y if 2y^2 - 5y + 2 = 0.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Solve the inequality: 2x^2 - 7x + 3 > 0.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Factorize the expression: x^4 - 16.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Solve the equation: 2(x - 3)^2 = 32.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Simplify: (4x^3 - 3x^2 + 2x) - (2x^3 + 5x - 7).",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Solve for t: √(t + 5) = 7.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Evaluate: (x^2 - 3x + 5)(x + 2) when x = 4.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Solve the inequality: 3x^2 + 4x - 7 ≤ 0.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Factorize the expression: 16x^4 - 1.",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "What is the formula for calculating the area of a rectangle?",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Define a right angle and name a shape that contains right angles.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Calculate the perimeter of a square with a side length of 5 units.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Define a radius and a diameter of a circle.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "What is the formula for finding the circumference of a circle?",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Calculate the area of a triangle with a base of 8 units and a height of 6 units.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "What are the interior angles of a triangle sum up to?",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Define parallel lines and provide an example.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Find the volume of a cube with a side length of 3 units.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Explain what a congruent shape means in geometry.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "easy",
+            "marks": 5
+        },
+        {
+            "question": "Calculate the area of a trapezoid with bases of 6 units and 8 units and a height of 4 units.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Define an isosceles triangle and explain its properties.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Find the perimeter of a regular hexagon with a side length of 7 units.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Calculate the volume of a cylinder with a radius of 4 units and a height of 10 units.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Define an acute angle, a right angle, and an obtuse angle.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Determine the surface area of a rectangular prism with dimensions 5 units × 4 units × 6 units.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Describe the properties of a rhombus and provide an example.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Calculate the area of a circle with a radius of 10 units using π (pi) as 3.14.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Define perpendicular lines and give an example.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Explain the Pythagorean theorem and its application in geometry.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "medium",
+            "marks": 10
+        },
+        {
+            "question": "Find the area of a sector in a circle with a central angle of 45 degrees and a radius of 8 units.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Describe the properties of a regular polygon.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Calculate the volume of a sphere with a radius of 6 units.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Explain the concept of similar triangles and their properties.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Find the surface area of a cone with a radius of 5 units and a slant height of 13 units.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Determine the value of x if the two lines are parallel: 3x - 4 = 2x + 5.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Calculate the area of a regular pentagon inscribed in a circle with a radius of 7 units.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Define the term 'congruence transformation' and provide examples.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Explain the properties of an inscribed angle in a circle.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "hard",
+            "marks": 20
+        },
+        {
+            "question": "Determine the measure of an exterior angle of a regular octagon.",
+            "subject": "Mathematics",
+            "topic": "Geometry",
+            "difficulty": "hard",
+            "marks": 20
+        }       
+    ]
+}

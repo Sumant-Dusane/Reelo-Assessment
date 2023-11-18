@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Hello From Question Bank Generator 😀</h1>
+    <ul>
+        <h4>Endpoint:  /getQuestions (POST):</h4>
+        Request Body Fields:
+            <ul>
+                <li>subject: string -> specify the subject (sciene | mathematics) </li>
+                <li>topic: string -> specify the topic <br>
+                    Science
+                    <ul>
+                        <li>physics</li>
+                        <li>chemistry</li>
+                        <li>biology</li>
+                        <li>astronomy</li>
+                    </ul>
+                    Mathematics
+                    <ul>
+                        <li>algebra</li>
+                        <li>geometry</li>
+                    </ul>
+                </li>
+                <li>easyRatio: number -> specify the maximum number of easy question required (default it us 20) </li>
+                <li>mediumRatio: number -> specify the maximum number of medium question required (default it us 20) </li>
+                <li>hardRatio: number -> specify the maximum number of hard question required (default it us 20) </li>
+            </ul>
+    </ul>
+    
+    <p>
+        Techstack: Express | Node.js | Modular Javascript
+        Procedure: On server initial run the data.json file content will be cached into a variable named as cached data. Anytime the endpoint is hit the cachedData will be traversed and filtered according to the params. </p>
+</body>
+</html>
