@@ -1,14 +1,15 @@
 # Reelo Backend Assessment
 
 ## Routes
-* (GET) / -> user manual
-* (POST) /getQuestions -> get json data of questions
+
+* (GET) /api/v1/ -> user manual
+* (POST) /api/v1/getQuestions -> get json data of questions
 * please read the manual for params
 
-## Techstack 
+## Techstack
+
 * Express.js
 * Node.js
 * Modular Javascript (.mjs)
-
 
 ### By Sumant Dusane ❤️
