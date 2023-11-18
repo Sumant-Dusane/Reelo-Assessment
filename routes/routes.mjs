@@ -4,7 +4,7 @@ import { fetchQuestions } from "../helper/fetchQuestions.mjs";
 const routes = Router();
 
 routes.get('/', async (req, res) => {
-    res.status(200).sendFile('./data/index.html', {root: '.'});
+    res.status(200).sendFile('data/index.html', {root: '.'});
 });
 
 routes.get('/getQuestions', async(req, res) => {
