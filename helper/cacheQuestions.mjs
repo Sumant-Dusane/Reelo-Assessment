@@ -3,7 +3,7 @@ import * as JSONStream from "JSONStream";
 
 export function getFile() {
     return new Promise((resolve, reject) => {
-        const inputStream = fileStream.createReadStream('data/data.json', 'utf8');
+        const inputStream = fileStream.createReadStream('./data/data.json', 'utf8');
         const data = [];
     
         inputStream
